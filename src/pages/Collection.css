@@ -1,0 +1,26 @@
+.collection-container {
+    background-color: rgb(0, 255, 106);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.crypto-item {
+    display: flex;
+    align-items: center; /* Vertically center items */
+    margin-bottom: 10px; /* Add spacing between rows */
+    color: azure;
+}
+
+.crypto-logo {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    margin-right: 10px; /* Add spacing between logo and details */
+}
+
+.collecttab{
+    gap: 50px;
+    display: flex;
+    color: azure;
+
+}
