@@ -10,9 +10,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@moralisweb3/next": "^2.25.2",
+    "@mui/material": "^5.15.15",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "@tanstack/react-query": "^5.28.14",
+    "@tanstack/react-query-persist-client": "^5.28.14",
     "axios": "^1.6.8",
+    "install": "^0.13.0",
+    "moralis": "^2.25.2",
+    "npm": "^10.5.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "styled-components": "^6.1.8",
+    "viem": "^2.9.9",
+    "wagmi": "^2.5.19",
+    "web3": "^4.7.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
